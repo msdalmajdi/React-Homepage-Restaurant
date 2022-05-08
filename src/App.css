@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: rgb(207, 207, 207);
+}
+.container{
+  padding:2rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.title{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: darkcyan;
+  text-shadow: 2px 2px 5px silver;
+  
+}
+.description{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color:rgb(2, 86, 86);
+  text-shadow: 2px 2px 5px silver;
+  
+}
+.image{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+}
+
+.imagehero{
+  border-radius: 2rem;
+  box-shadow: 3px 3px 1px white;
+  -webkit-box-shadow: 3px 3px 1px white;
+  -moz-box-shadow: 3px 3px 1px white;
+  
+}
