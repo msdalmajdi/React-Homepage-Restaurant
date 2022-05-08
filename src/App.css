@@ -94,6 +94,10 @@ body{
   flex-direction: column;
   padding: 0 1rem;
   margin-top: 1rem;
+
+  color:forestgreen;
+  font-size: larger;
+  font-weight: 800;
 }
 .product-img{
   
