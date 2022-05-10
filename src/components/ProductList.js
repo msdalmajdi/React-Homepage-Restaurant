@@ -19,14 +19,3 @@ const ProductList = () => {
 };
 
 export default ProductList;
-
-/*
-
-return (
-    <div class="list">
-      {productsList.map((item) => {
-        return <div class="item">{item}</div>;
-      })}
-    </div>
-  );
-  */
